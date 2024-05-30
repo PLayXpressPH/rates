@@ -1,0 +1,59 @@
+{
+  "rates": [
+    {
+      "name": "USD",
+      "rate": "58",
+      "symbol": "$"
+    },
+    {
+      "name": "EUR",
+      "rate": "61",
+      "symbol": "€"
+    },
+    {
+      "name": "JPY",
+      "rate": "0.4",
+      "symbol": "¥"
+    },
+    {
+      "name": "GBP",
+      "rate": "71",
+      "symbol": "£"
+    },
+    {
+      "name": "AUD",
+      "rate": "37",
+      "symbol": "A$"
+    },
+    {
+      "name": "CAD",
+      "rate": "41.5",
+      "symbol": "$"
+    },
+    {
+      "name": "CHF",
+      "rate": "62",
+      "symbol": "₣"
+    },
+    {
+      "name": "RMB (CNY)",
+      "rate": "8",
+      "symbol": "¥"
+    },
+    {
+      "name": "HKD",
+      "rate": "7.5",
+      "symbol": "HK$"
+    },
+    {
+      "name": "INR",
+      "rate": "0.7",
+      "symbol": "₹"
+    },
+    {
+      "name": "PHP",
+      "rate": "1",
+      "symbol": "₱"
+    }
+  ]
+}
