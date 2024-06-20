@@ -2,12 +2,12 @@
   "rates": [
     {
       "name": "USD",
-      "rate": "58.75",
+      "rate": "59.00",
       "symbol": "$"
     },
     {
       "name": "EUR",
-      "rate": "63.75",
+      "rate": "63.50",
       "symbol": "€"
     },
     {
@@ -22,22 +22,22 @@
     },
     {
       "name": "AUD",
-      "rate": "39",
+      "rate": "39.5",
       "symbol": "A$"
     },
     {
       "name": "CAD",
-      "rate": "43",
+      "rate": "43.1o",
       "symbol": "CA$"
     },
     {
       "name": "CHF",
-      "rate": "65.50",
+      "rate": "66.25",
       "symbol": "₣"
     },
     {
       "name": "RMB (CNY)",
-      "rate": "8.1",
+      "rate": "8.2",
       "symbol": "¥"
     },
     {
